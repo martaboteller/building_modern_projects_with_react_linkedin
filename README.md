@@ -42,6 +42,6 @@ I'm Marta Boteller, little more about me at my [website](https://martaboteller.c
 
 ## Acknowledgments
 
-<p>This course is a bit outdated and thus I have been struggling at some points. I would like to thank <a href="https://www.linkedin.com/learning/building-modern-projects-with-react/react-going-from-good-to-great?autoplay=true">Shaun Wassell </a>Wassell anyway!
+<p>This course is a bit outdated and thus I have been struggling at some points. I would like to thank <a href="https://www.linkedin.com/learning/building-modern-projects-with-react/react-going-from-good-to-great?autoplay=true">Shaun Wassell </a> anyway!
 
 ##
